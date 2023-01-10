@@ -16,7 +16,9 @@ Proje 3
 - 4, (7) ile karşılaştırılır. 4<7 ve 4<5 ve 4>3 bu yüzden 3'ün sağına gelir, 
 - 2, (7) ile karşılaştırılır. 2<7 ve 2<5 ve 2<3'ün soluna gelir.
       
-      
+    
+    
+    
         7
        / \
       5   8
